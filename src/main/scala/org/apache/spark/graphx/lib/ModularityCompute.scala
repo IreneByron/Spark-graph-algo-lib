@@ -2,7 +2,7 @@ package org.apache.spark.graphx.lib
 
 import org.apache.spark.rdd.RDD
 
-object ModularityCompute {
+object Modularity {
 
   def run(
     nodes: RDD[(Int, Int)],
