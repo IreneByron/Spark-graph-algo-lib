@@ -1,4 +1,4 @@
-package org.apache.spark.grahx.lib
+package org.apache.spark.graphx.lib
 
 import org.apache.spark.rdd.RDD
 
