@@ -2,7 +2,7 @@ package org.apache.spark.graphx.lib
 
 import org.apache.spark.rdd.RDD
 
-object CycleDetectionWithConstains {
+object CycleDetectionWithConstrains {
   def run(edgeInfo: RDD[(Long, Long, Double)],
           part: Int,
           minLoopLen: Int,
